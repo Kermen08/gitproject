@@ -1,11 +1,8 @@
 .text {
-    border:2px dashed red;
+    color:green;
     background: black;
 }
-div {
-    max-width: 1200px;
-}
-p {
-    text-align: justify;
-    font-size: 20px;
+span {
+    color:red;
+    border:1 px solid blue;
 }
