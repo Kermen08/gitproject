@@ -1,7 +1,11 @@
 .text {
     color:red;
     background: black;
+<<<<<<< HEAD
 
+=======
+    font-size:14px;
+>>>>>>> 43c00a1 (changed font-size)
 }
 span {
     color:green;
