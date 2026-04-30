@@ -8,6 +8,7 @@
 >>>>>>> 43c00a1 (changed font-size)
 }
 span {
+<<<<<<< HEAD
     color:green;
     border:1 px solid brown;
     font-size: 12px;
@@ -15,4 +16,11 @@ span {
 p {
     color: blanchedalmond;
     font-size: 20px;
+=======
+    color:gray;
+    border:1 px solid blue;
+}
+p {
+    color:black;
+>>>>>>> 0a11190 (p styles added)
 }
