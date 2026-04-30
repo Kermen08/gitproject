@@ -1,14 +1,9 @@
 .text {
     color:red;
     background: black;
-<<<<<<< HEAD
-
-=======
-    font-size:14px;
->>>>>>> 43c00a1 (changed font-size)
+ font-size:14px;
 }
 span {
-<<<<<<< HEAD
     color:green;
     border:1 px solid brown;
     font-size: 12px;
@@ -16,11 +11,4 @@ span {
 p {
     color: blanchedalmond;
     font-size: 20px;
-=======
-    color:gray;
-    border:1 px solid blue;
-}
-p {
-    color:black;
->>>>>>> 0a11190 (p styles added)
 }
