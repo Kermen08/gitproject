@@ -1,9 +1,13 @@
 .text {
     color:red;
     background: black;
+
 }
 span {
     color:green;
     border:1 px solid brown;
     font-size: 12px;
+}
+p {
+    color: blanchedalmond;
 }
